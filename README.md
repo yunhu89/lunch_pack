@@ -1,16 +1,5 @@
-# flutter_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2024/05/05 PM 8:01 
+vs code에서 Android studio로 옮김. 
+main파일 말고도 
+lib에 상세 페이지, 양 옆 밑 검색하는 페이지를 추가해야함. 
+코드가 너무 많으면 복잡하고 한 파일 내에서 변수가 중복 사용되어 복잡해짐. 
